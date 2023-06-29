@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.resource {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px gray;
+  text-align: center;
+  width: 30%;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
