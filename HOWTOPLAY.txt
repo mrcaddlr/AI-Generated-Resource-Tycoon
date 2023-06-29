@@ -1,0 +1,1 @@
+To play the game, you must generate either wood, metal, or plastic. Then, You must generate the one(s) until you have enough to upgrade your production. After that, the cost will increase by x2.
